@@ -1,7 +1,7 @@
 package com.demo.bean;
 
 public class User {
-private int id;
+private int id;//姓名
 private String name;
 private int age;
 public int getId() {
