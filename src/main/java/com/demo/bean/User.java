@@ -1,9 +1,9 @@
 package com.demo.bean;
 
 public class User {
-private int id;
-private String name;
-private int age;
+private int id;//编号
+private String name;//姓名
+private int age;//年龄
 public int getId() {
 	return id;
 }
